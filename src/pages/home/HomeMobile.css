@@ -1,0 +1,29 @@
+@media (max-width:900px) and (min-width:0px){
+    .right{
+        display: none;
+    }
+
+    .home-main{
+    flex-direction: column;
+    }
+    .right-most{
+        display: none;
+    }
+    .box{
+        margin-left: 60px;
+    }
+    .one-icon{
+        display: block!important;
+    }
+}
+@media (max-width:400px) and (min-width:0px){
+
+
+    .r-up{
+        display: none;
+    }
+    .error{
+        display:block;
+    }
+    
+}

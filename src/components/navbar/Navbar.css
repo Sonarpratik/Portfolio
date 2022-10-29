@@ -1,0 +1,43 @@
+
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  .try{
+    /* display: block; */
+    background-image: url("./chican.webp");
+    min-height: 100%;
+    background-size: cover;
+    /* background-color: red!important; */
+  }
+  .desc{
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color:rgba(0,0,0,0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    opacity: 0;
+    flex-direction: column;
+
+  }
+  .c-yellow{
+    color: rgba(21, 35, 51, 0.933);
+    color: yellow;
+  }
+  .c-black{
+    color: teal!important;
+    cursor: pointer;
+
+  }
+  .carousel:hover .desc{
+    opacity: 1;
+    transition: all .5s ease;
+  }
