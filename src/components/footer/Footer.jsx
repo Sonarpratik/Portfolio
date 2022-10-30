@@ -20,7 +20,7 @@ const Footer = () => {
               data-aos-delay="1000"
               data-aos-duration="1000"
             >
-              Sonar Sonu
+              Sonar Pratik
             </h1>
             <p
               className="for-size"
