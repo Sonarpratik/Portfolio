@@ -28,7 +28,7 @@ const Footer = () => {
               data-aos-delay="1500"
               data-aos-duration="1000"
             >
-              Home Made Web Devloper
+              Self Made Web Devloper
             </p>
             <button className="btn-home">Hire Me</button>
           </div>

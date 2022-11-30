@@ -12,6 +12,7 @@ function App() {
       {
         show?<Home/>:<Spare/>
       }
+      
   
       <MenuIcon className="one-icon" onClick={()=>setShow(!show)} />
        
