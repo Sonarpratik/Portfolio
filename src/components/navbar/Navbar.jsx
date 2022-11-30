@@ -36,19 +36,19 @@ const Navbar = () => {
               <h3 className="c-yellow">E-commerce</h3>
 
               <p>
-                Tech stack : React JS, CSS <br />
+                Tech stack : React JS, Node Js, API , CSS <br />
                 Hosting : GitHub <br />
                 Live Project :
                 <a
                   className="c-black"
-                  href="https://sonarpratik.github.io/reactlive/
+                  href="https://ecomclient.vercel.app/
                   "
                   target="_blank"
                 >
                   Visit Site
                 </a>
                 <br />
-                Description : My first basic app with React
+                Description : Ecommerce app with backend and react js
                 <br />
               </p>
             </div>
@@ -136,21 +136,21 @@ const Navbar = () => {
               <h3 className="c-yellow">iGames</h3>
 
               <p>
-                Tech stack : React JS, CSS
+                Tech stack : HTML, Bootstrap , CSS
                 <br />
                 Hosting : GitHub
                 <br />
                 Live Project :
                 <a
                   className="c-black"
-                  href="https://sonarpratik.github.io/reactlive/
+                  href="https://sonarpratik.github.io/iGame/
                   "
                   target="_blank"
                 >
                   Visit Site
                 </a>
                 <br />
-                Description : My first basic app with React
+                Description : My first basic app with Bootstrap
                 <br />
               </p>
             </div>
