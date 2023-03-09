@@ -20,7 +20,7 @@ const Navbar = () => {
                 Live Project :
                 <a
                   className="c-black "
-                  href="https://profile-app-pratik.herokuapp.com/"
+                  href="https://profile.sonarpratik.repl.co"
                   target="_blank"
                 >
                   Visit Site
@@ -41,7 +41,7 @@ const Navbar = () => {
                 Live Project :
                 <a
                   className="c-black"
-                  href="https://ecomclient.vercel.app/
+                  href="https://subtle-cendol-7b88b7.netlify.app/
                   "
                   target="_blank"
                 >
@@ -66,7 +66,7 @@ const Navbar = () => {
                 Live Project :
                 <a
                   className="c-black"
-                  href="https://pratiknutsandtransport.herokuapp.com/
+                  href="https://NutSandTransport.sonarpratik.repl.co
                   "
                   target="_blank"
                 >
@@ -92,7 +92,7 @@ const Navbar = () => {
                 Live Project :
                 <a
                   className="c-black"
-                  href="https://app-weather-arcade.herokuapp.com/
+                  href="https://weather.sonarpratik.repl.co/weather
                   "
                   target="_blank"
                 >
@@ -126,6 +126,81 @@ const Navbar = () => {
                 </a>
                 <br />
                 Description : My first basic app with React
+                <br />
+              </p>
+            </div>
+          </div>
+          <div className="carousel-item ">
+            <img src="./img/d2.png" className="d-block w-100" alt="..." />
+            <div className="desc">
+              <h3 className="c-yellow">Word Scrambler</h3>
+
+              <p>
+                Tech stack : HTML, Bootstrap , CSS , JavaScript
+                <br />
+                Hosting : GitHub 
+                <br />
+                Live Project :
+                <a
+                  className="c-black"
+                  href="https://sonarpratik.github.io/WordScramble/
+                  "
+                  target="_blank"
+                >
+                  Visit Site
+                </a>
+                <br />
+                Description : My Second basic JavaScript Game
+                <br />
+              </p>
+            </div>
+          </div>
+          <div className="carousel-item ">
+            <img src="./img/d3.png" className="d-block w-100" alt="..." />
+            <div className="desc">
+              <h3 className="c-yellow">QR Code Generator for Your BMI</h3>
+
+              <p>
+                Tech stack : HTML, React , CSS , JavaScript , Qr Library
+                <br />
+                Hosting : GitHub 
+                <br />
+                Live Project :
+                <a
+                  className="c-black"
+                  href="https://ubiquitous-sundae-17d378.netlify.app/
+                  "
+                  target="_blank"
+                >
+                  Visit Site
+                </a>
+                <br />
+                Description : My first basic JavaScript Game
+                <br />
+              </p>
+            </div>
+          </div>
+          <div className="carousel-item ">
+            <img src="./img/d1.png" className="d-block w-100" alt="..." />
+            <div className="desc">
+              <h3 className="c-yellow">Car Dash</h3>
+
+              <p>
+                Tech stack : HTML, Bootstrap , CSS , JavaScript
+                <br />
+                Hosting : GitHub 
+                <br />
+                Live Project :
+                <a
+                  className="c-black"
+                  href="https://sonarpratik.github.io/CarDash/
+                  "
+                  target="_blank"
+                >
+                  Visit Site
+                </a>
+                <br />
+                Description : My first basic JavaScript Game
                 <br />
               </p>
             </div>
